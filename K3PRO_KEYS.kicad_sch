@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Keychron K3 Pro")
+    (date "2023-07-04")
+  )
+
   (lib_symbols
     (symbol "74xx:74HC595" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -7.62 13.97 0)
