@@ -1,0 +1,7 @@
+.DS_Store
+*-bak
+*.bck
+fp-info-cache
+*-cache.lib
+*.zip
+*.kicad_prl
